@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-1a34)9j!fw9ptm2$!nfyn@gnalo%c^h7=(*+_7rw#kq*%vh@4j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['cryptic-bastion-47088.herokuapp.com/', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['cryptic-bastion-47088.herokuapp.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
