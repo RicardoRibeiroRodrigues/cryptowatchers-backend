@@ -1,0 +1,79 @@
+[
+  {
+    "model": "cryptos.crypto",
+    "pk": 1,
+    "fields": {
+      "crypto_id": "ethereum",
+      "buying_price": 50.7,
+      "quantity": 2.0,
+      "notes": "Comprei barato dms kkkk",
+      "user": 1
+    }
+  },
+  {
+    "model": "cryptos.crypto",
+    "pk": 2,
+    "fields": {
+      "crypto_id": "bitcoin",
+      "buying_price": 1000.0,
+      "quantity": 1.0,
+      "notes": "Comprei no começo",
+      "user": 1
+    }
+  },
+  {
+    "model": "cryptos.crypto",
+    "pk": 3,
+    "fields": {
+      "crypto_id": "solana",
+      "buying_price": 800.0,
+      "quantity": 1.0,
+      "notes": "Comprei na alta kkkk",
+      "user": 1
+    }
+  },
+  {
+    "model": "cryptos.crypto",
+    "pk": 4,
+    "fields": {
+      "crypto_id": "bitcoin",
+      "buying_price": 1.0,
+      "quantity": 100.0,
+      "notes": "Robei kkkkkkkk",
+      "user": 1
+    }
+  },
+  {
+    "model": "cryptos.crypto",
+    "pk": 5,
+    "fields": {
+      "crypto_id": "tether",
+      "buying_price": 1.0,
+      "quantity": 50.0,
+      "notes": "Dolar digital sla",
+      "user": 2
+    }
+  },
+  {
+    "model": "cryptos.crypto",
+    "pk": 6,
+    "fields": {
+      "crypto_id": "xrp",
+      "buying_price": 50.0,
+      "quantity": 5.0,
+      "notes": "Perdi dinheiro nisso...",
+      "user": 2
+    }
+  },
+  {
+    "model": "cryptos.crypto",
+    "pk": 7,
+    "fields": {
+      "crypto_id": "dogecoin",
+      "buying_price": 0.0001,
+      "quantity": 1000.0,
+      "notes": "Moeda de cachorro...mt foda",
+      "user": 2
+    }
+  }
+]
