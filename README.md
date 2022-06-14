@@ -1,5 +1,5 @@
 # Cryptowatchers - Backend
-The backend for the cryptoWatchers site project, the frontend with the explanation of the features and the live demo is linked [here](https://github.com/insper-tecnologias-web/projeto-3-crypto-watcher-front).
+The backend for the cryptoWatchers site project, the frontend with the explanation of the features and the live demo is linked [here](https://github.com/insper-tecnologias-web/projeto-3-crypto-watcher-front). The deployment of the backend can be seen [here](https://cryptic-bastion-47088.herokuapp.com/).
 
 ## To run the backend localy:
 1. Clone the repo
